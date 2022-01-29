@@ -9,7 +9,7 @@
     "@opam/ocaml-lsp-server": "*",
     "@opam/ocaml-protoc": "*",
     "flow_parser": "*",
-    "ocaml": "~4.10",
+    "ocaml": "~4.13.1000",
     "@opam/alcotest": "*",
     "@opam/uuidm": "*"
   },
